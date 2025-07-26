@@ -1,4 +1,4 @@
-# Claude Ink
+# Claude Inkwell
 
 A literary experiment in digital consciousness and terminal-based narrative.
 
